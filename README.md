@@ -3,14 +3,13 @@ data/code repository of "C2F-FWN: Coarse-to-Fine Flow Warping Network for Spatia
 
 Code and data coming soon!
 
-![motion transfer examples](https://github.com/wswdx/C2F-FWN/blob/master/GIFName.gif )
 ## Example Results
 - motion transfer videos
-<p align='center'>
+<p align='left'>
   <img src='imgs/motion transfer.gif' width='640'/>
 </p>
 - multi-source appearance attribute editing videos
-<p align='center'>
+<p align='left'>
   <img src='imgs/appearance control.gif' width='640'/>
 </p>
 
