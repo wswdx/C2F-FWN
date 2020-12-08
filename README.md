@@ -4,4 +4,4 @@ data/code repository of "C2F-FWN: Coarse-to-Fine Flow Warping Network for Spatia
 Code and data coming soon!
 
 Supplementary video:
-[![Watch the video]](https://youtu.be/THuQN1GXuGI)
+[![Watch the video]](https://img.youtube.com/vi/THuQN1GXuGI/0.jpg)(https://youtu.be/THuQN1GXuGI)
