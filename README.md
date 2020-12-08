@@ -14,5 +14,5 @@ Code and data coming soon!
   <img src='imgs/appearance control.gif' width='640'/>
 </p>
 
-Full supplementary video:
+- Full supplementary video:
 https://youtu.be/THuQN1GXuGI
