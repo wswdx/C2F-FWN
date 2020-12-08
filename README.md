@@ -8,6 +8,7 @@ Code and data coming soon!
 <p align='left'>
   <img src='imgs/motion transfer.gif' width='640'/>
 </p>
+
 - multi-source appearance attribute editing videos
 <p align='left'>
   <img src='imgs/appearance control.gif' width='640'/>
