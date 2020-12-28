@@ -36,7 +36,7 @@ https://youtu.be/THuQN1GXuGI
 
 ## Getting Started
 It's a preview version of our source code. We will clean it up in the near future.  
-Notes:
+### Notes
 1. Main functions for training and testing can be found in "train_stage1.py", "train_stage2.py", "train_stage2.py", "test_all_stages.py";
 2. Data preprocessings of all the stages can be found in "data" folder;
 3. Model definitions of all the stages can be found in "models" folder;
