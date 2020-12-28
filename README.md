@@ -38,18 +38,18 @@ Notes:
 ### Data Preparation
 Download all the data packages [![here]](https://drive.google.com/drive/folders/1f6NEO1onLtf-K65bpms4_alBlNh5YIVW?usp=sharing) and uncompress them.
 You should create a directory named 'SoloDance' in the root (i.e., 'C2F-FWN') of this project, and then put 'train' and 'test' folders to 'SoloDance' you just created.
-The structure should look like this:
--C2F-FWN
----Solodance
-------train
-------test
+The structure should look like this:  
+-C2F-FWN  
+---Solodance  
+------train  
+------test  
 
 ### Training
-1. Train the layout GAN of stage 1:
+1. Train the layout GAN of stage 1:  
     bash scripts/stage1/train_1.sh
-2. Train our C2F-FWN of stage 2:
-    bash scripts/stage2/train_2.sh
-3. Train the composition GAN of stage 3:
+2. Train our C2F-FWN of stage 2:  
+    bash scripts/stage2/train_2.sh  
+3. Train the composition GAN of stage 3:  
     bash scripts/stage3/train_3.sh
     
 ### Testing all the stages together (Separate testing scripts for different stage will be updated in the near future)
