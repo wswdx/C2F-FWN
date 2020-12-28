@@ -2,6 +2,7 @@
 data/code repository of "C2F-FWN: Coarse-to-Fine Flow Warping Network for Spatial-Temporal Consistent Motion Transfer"
 
 ## News
+2020.12.16: Our paper is available on [[ArXiv]](https://arxiv.org/abs/2012.08976) now!  
 2020.12.28: Our SoloDance Dataset is available [[here]](https://drive.google.com/drive/folders/1f6NEO1onLtf-K65bpms4_alBlNh5YIVW?usp=sharing) now!  
 2020.12.28: A preview version of our code is now available, which needs further clean-up.
 
@@ -61,3 +62,17 @@ The structure should look like this:
     
 ### Testing all the stages together (Separate testing scripts for different stage will be updated in the near future)
     bash scripts/full/test_full.sh
+
+## Acknowledgement
+A large part of the code is borrowed from [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid). Thanks for their wonderful works.
+
+## Citation
+If you find this project useful for your research, please cite our paper using the following BibTeX entry.
+```
+@article{wei2020c2f,
+  title={C2F-FWN: Coarse-to-Fine Flow Warping Network for Spatial-Temporal Consistent Motion Transfer},
+  author={Wei, Dongxu and Xu, Xiaowei and Shen, Haibin and Huang, Kejie},
+  journal={arXiv preprint arXiv:2012.08976},
+  year={2020}
+}
+```
