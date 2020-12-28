@@ -1,5 +1,6 @@
 # C2F-FWN
-data/code repository of "C2F-FWN: Coarse-to-Fine Flow Warping Network for Spatial-Temporal Consistent Motion Transfer"
+data/code repository of "C2F-FWN: Coarse-to-Fine Flow Warping Network for Spatial-Temporal Consistent Motion Transfer"  
+(https://arxiv.org/abs/2012.08976)
 
 ## News
 2020.12.16: Our paper is available on [[ArXiv]](https://arxiv.org/abs/2012.08976) now!  
@@ -35,7 +36,7 @@ https://youtu.be/THuQN1GXuGI
 
 ## Getting Started
 It's a preview version of our source code. We will clean it up in the near future.  
-Notes:  
+Notes:
 1. Main functions for training and testing can be found in "train_stage1.py", "train_stage2.py", "train_stage2.py", "test_all_stages.py";
 2. Data preprocessings of all the stages can be found in "data" folder;
 3. Model definitions of all the stages can be found in "models" folder;
@@ -60,7 +61,7 @@ The structure should look like this:
 #### 3.Train the composition GAN of stage 3:
     bash scripts/stage3/train_3.sh
     
-### Testing all the stages together (Separate testing scripts for different stages will be updated in the near future)
+### Testing all the stages together (separate testing scripts for different stages will be updated in the near future)
     bash scripts/full/test_full.sh
 
 ## Acknowledgement
