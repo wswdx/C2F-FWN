@@ -1,8 +1,8 @@
 # C2F-FWN
 data/code repository of "C2F-FWN: Coarse-to-Fine Flow Warping Network for Spatial-Temporal Consistent Motion Transfer"
 
-# News
-2020.12.28: Our SoloDance Dataset is available [![here]](https://drive.google.com/drive/folders/1f6NEO1onLtf-K65bpms4_alBlNh5YIVW?usp=sharing) now!  
+## News
+2020.12.28: Our SoloDance Dataset is available [[here]](https://drive.google.com/drive/folders/1f6NEO1onLtf-K65bpms4_alBlNh5YIVW?usp=sharing) now!  
 2020.12.28: A preview version of our code is now available, which needs further clean-up.
 
 ## Example Results
@@ -25,7 +25,7 @@ https://youtu.be/THuQN1GXuGI
 - NVIDIA GPU (>12GB memory) + CUDA10 cuDNN7
 - PyTorch 1.0.0
 ### Other Dependencies
-#### DConv (modified from original [[DConv]](https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch)
+#### DConv (modified from original [[DConv]](https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch))
     cd models/dconv
     bash make.sh
 #### FlowNet_v2 (directly ported from the original [[flownet2]](https://github.com/NVIDIA/flownet2-pytorch) following the steps described in [[vid2vid]](https://github.com/NVIDIA/vid2vid))
