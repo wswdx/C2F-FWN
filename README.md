@@ -40,7 +40,7 @@ Download all the data packages [![here]](https://drive.google.com/drive/folders/
 You should create a directory named 'SoloDance' in the root (i.e., 'C2F-FWN') of this project, and then put 'train' and 'test' folders to 'SoloDance' you just created.
 The structure should look like this:  
 -C2F-FWN  
----Solodance  
+---SoloDance  
 ------train  
 ------test  
 
