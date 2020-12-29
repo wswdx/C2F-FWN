@@ -57,6 +57,7 @@ The structure should look like this:
 #### 1.Train the layout GAN of stage 1:
     bash scripts/stage1/train_1.sh
 #### 2.Train our C2F-FWN of stage 2:
+    bash scripts/stage2/train_2_tps_only.sh
     bash scripts/stage2/train_2.sh
 #### 3.Train the composition GAN of stage 3:
     bash scripts/stage3/train_3.sh
