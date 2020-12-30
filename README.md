@@ -4,7 +4,7 @@ data/code repository of "C2F-FWN: Coarse-to-Fine Flow Warping Network for Spatia
 
 ## News
 2020.12.16: Our paper is available on [[ArXiv]](https://arxiv.org/abs/2012.08976) now!  
-2020.12.28: Our SoloDance Dataset is available [[here]](https://drive.google.com/drive/folders/1f6NEO1onLtf-K65bpms4_alBlNh5YIVW?usp=sharing) now!  
+2020.12.28: Our SoloDance Dataset is available on [[google drive]](https://drive.google.com/drive/folders/1f6NEO1onLtf-K65bpms4_alBlNh5YIVW?usp=sharing) and [[baidu pan (extraction code:gle4]](https://pan.baidu.com/s/14oitDhULAeirGaojV_VYew) now!  
 2020.12.28: A preview version of our code is now available, which needs further clean-up.
 
 ## Example Results
@@ -45,7 +45,7 @@ It's a preview version of our source code. We will clean it up in the near futur
 6. Tool functions can be found in "util" folder.
 
 ### Data Preparation
-Download all the data packages [[here]](https://drive.google.com/drive/folders/1f6NEO1onLtf-K65bpms4_alBlNh5YIVW?usp=sharing) and uncompress them.
+Download all the data packages from [[google drive]](https://drive.google.com/drive/folders/1f6NEO1onLtf-K65bpms4_alBlNh5YIVW?usp=sharing) or [[baidu pan (extraction code:gle4]](https://pan.baidu.com/s/14oitDhULAeirGaojV_VYew), and uncompress them.
 You should create a directory named 'SoloDance' in the root (i.e., 'C2F-FWN') of this project, and then put 'train' and 'test' folders to 'SoloDance' you just created.
 The structure should look like this:  
 -C2F-FWN  
